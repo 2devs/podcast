@@ -17,7 +17,6 @@ exclude: [
   ".gitignore",
   "package.json"
 ]
-highlighter: pygments
 
 title : 2Devs Podcast
 description: We usually dive into random topics every day. Eventually we realized we should start recording it.
