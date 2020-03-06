@@ -1,1 +1,31 @@
+# This is the default format.
+# For more see: http://jekyllrb.com/docs/permalinks/
+permalink: /:year/:month/:day/:title
+
+exclude: [
+  "node_modules",
+  "build",
+  "styles",
+  "Gemfile",
+  "Gemfile.lock",
+  "README.md",
+  "Gruntfile.js",
+  "report.html",
+  ".jscs.json",
+  ".jshintrc",
+  ".gitattributes",
+  ".gitignore",
+  "package.json"
+]
+highlighter: pygments
+
+title : 2Devs Podcast
+description: We usually dive into random topics every day. Eventually we realized we should start recording it.
+tagline: We're sure this will turn into a podcast. Eventually.
+base_url: https://2devs.github.io/podcast/
+
+author :
+  name : Daryn Johnson, Bryan Culver
+  email : 2devspodcast@gmail.com
+
 theme: jekyll-theme-tactile
