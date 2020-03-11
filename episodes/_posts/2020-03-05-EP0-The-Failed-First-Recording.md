@@ -9,6 +9,7 @@ mp3_asset_link: "https://2devs-podcast.s3.us-east-1.amazonaws.com/eps/2devs-ep0.
 segments: "Hard Bod, Travel Ban"
 tags: [Dumpster Trash]
 comments: true
+img_src: /imgs/logo.jpg
 ---
 
 We had a great start, and then the entire thing unraveled.
