@@ -14,4 +14,4 @@ guid: 99c4255b
 category: episodes
 ---
 
-We had a great start, and then the entire thing unraveled.
+We discuss rachelbythebay's blog post \"The tools you'd miss if you left a company\", how glue is what makes up network automation today, what it's going to take to change that, and where we see network automation in 10 years.
