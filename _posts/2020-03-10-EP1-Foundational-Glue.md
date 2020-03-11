@@ -1,6 +1,6 @@
 ---
 layout: post
-number: "0"
+number: "1"
 title: "Foundational Glue"
 duration: "00:43:35"
 length: "21053261"
