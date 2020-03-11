@@ -46,7 +46,7 @@ layout: null
             <description>{{'<![CDATA['}}{{ episode.short_description }}{{']]>'}}</description>
 
             <enclosure url="{{ episode.mp3_asset_link | xml_escape }}" length="{{ episode.length }}" type="audio/mpeg" />
-            <guid>{{ episode.mp3_asset_link | xml_escape }}</guid>
+            <guid>{{ episode.guid }}</guid>
 
             <itunes:author>{{site.author.name}}</itunes:author>
             <itunes:summary>{{ episode.content | strip_html | xml_escape }}</itunes:summary>
