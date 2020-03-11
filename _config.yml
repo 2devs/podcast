@@ -6,7 +6,7 @@
 name: 2Devs Podcast
 title : 2Devs Podcast
 tagline: We're sure this will turn into a podcast. Eventually.
-base_url: /podcast
+base_url: "https://2devs.github.io/podcast"
 author :
   name : Daryn Johnson, Bryan Culver
   email : 2devspodcast@gmail.com
