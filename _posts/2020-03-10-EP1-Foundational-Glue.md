@@ -10,7 +10,7 @@ segments: "Hard Bod, Travel Ban"
 tags: [Network Automation, CI/CD, Automation, Glue]
 comments: true
 img_src: /imgs/logo.jpg
-guid: 99c4255a
+guid: 99c4255b
 category: episodes
 ---
 
