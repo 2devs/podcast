@@ -1,5 +1,5 @@
 ---
-layout: episode
+layout: post
 number: "0"
 title: "The Failed First Recording"
 duration: "01:56"
