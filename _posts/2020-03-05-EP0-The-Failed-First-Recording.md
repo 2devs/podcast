@@ -11,6 +11,7 @@ tags: [Dumpster Trash]
 comments: true
 img_src: /imgs/logo.jpg
 guid: c06349c3
+category: episodes
 ---
 
 We had a great start, and then the entire thing unraveled.

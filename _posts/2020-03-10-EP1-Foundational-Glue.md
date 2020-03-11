@@ -11,6 +11,7 @@ tags: [Network Automation, CI/CD, Automation, Glue]
 comments: true
 img_src: /imgs/logo.jpg
 guid: 99c4255a
+category: episodes
 ---
 
 We had a great start, and then the entire thing unraveled.
